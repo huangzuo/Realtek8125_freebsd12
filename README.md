@@ -1,5 +1,5 @@
 # Realtek8125_freebsd12
-#Realtek 8125 for Driver FreeBSD 12.1
+#Realtek 8125 Driver for FreeBSD 12.1 and TrueNAS 12
 1. Copy if_re.ko to /boot/kernel/ 
 2. In /boot/kernel  
 chown root:wheel if_re.ko  
